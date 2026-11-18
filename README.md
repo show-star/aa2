@@ -4,6 +4,8 @@
 
 Repository: https://github.com/show-star/aa2
 
+📘 **Viva questions and easy explanations for all 6 practicals:** [VIVA.md](VIVA.md)
+
 Both practicals use the same Java Maven project in this repo.
 
 | Practical | What you build | Jump to |
